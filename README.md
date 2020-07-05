@@ -1,2 +1,2 @@
 # test
-just for learm
+just for learn
